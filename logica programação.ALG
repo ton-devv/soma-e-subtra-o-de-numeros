@@ -1,6 +1,6 @@
 algoritmo "Logica"
 var
-   num1,num2, subtracao, resultado1, resultado2 : inteiro
+   num1,num2, subtracao, resultado1 : inteiro
 inicio
     escreva (" digite um numero:")
     leia (num1)
